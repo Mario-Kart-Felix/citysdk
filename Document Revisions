@@ -1,0 +1,25 @@
+Document Revisions
+Date Version Change
+7/25/2014 1.0 • Created FHA EAD Lender Agent Admin User Guide
+1/9/2015 1.1 • Added “FHA” in the user guide title
+• Added “FHA” before the words “EAD Lender Agent Admin User Guide”, “EAD General 
+User Guide”, and “EAD Lender Admin User Guide”.
+• Made changes to “What’s in the manual?”
+o Merged Section 5 with Section 4
+o Added Section 7: Direct Integration User Registration
+• Changed email address of invitation sender in section 1. Registering with the FHA to 
+become a Lender Agent.
+• Made changes to the Note below Figure 2.1.5.
+• Made changes to the text below Figure 3.0.5.
+• Changed email address of email sender to ead-noreply@veros.com in section 4. 
+Managing Lender Agent Users.
+• Added section 7. Direct Integration User Registration.
+3/3/2015 1.2 • Made changes in section 6.1.
+• Made changes in section 7.
+9/17/2015 1.3 • Added “or Unlocking Accounts” to item “Changing Passwords” in section 4. Managing 
+Lender Agent Users.
+• Changed section 4.5 to “Changing User Password/Unlocking a User Account”.
+• Edited some text in section 4.5.
+• Made changes in section Additional Assistance – remove “(accessible after you log in to 
+the EAD portal)”.
+4/25/2017 1.4 • Section 1.1: Added Note that a user is allowed only one access per user 📛
